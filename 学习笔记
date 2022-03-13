@@ -14,3 +14,11 @@
 1.通过git管理github上的代码
 2.git下载
 www.git-scm.com/download/win
+
+-----第07课-----
+1.工作区域
+工作区-缓存区-Git仓库
+2.命令
+git status--查看文件状态
+git add 文件名--从工作区提交到暂存区
+git commit -m "提交描述"--从暂存区提交到仓库
